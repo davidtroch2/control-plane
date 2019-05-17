@@ -1,5 +1,5 @@
 ---
 pivnet-api-token: ((pivnet_token))
-pivnet-file-glob: "*.pivotal"
 pivnet-product-slug: vmware-nsx-t
+pivnet-file-glob: "*.pivotal"
 product-version-regex: ^2\.4\.$
